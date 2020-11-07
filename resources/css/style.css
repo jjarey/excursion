@@ -23,3 +23,18 @@ p.camp {
     color: gray;
     font-size: 21px;
 }
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+img.phone {
+    margin-top: 30px;
+}
+
+p.copyright {
+    color: gray;
+    margin: 15px;
+    text-align: right;
+}
